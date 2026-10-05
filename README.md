@@ -3,7 +3,7 @@
 <h1>🌐 🫧 ˚₊‧ Bienvenid@ a mi espacio digital ‧₊˚ 🫧🌐</h1>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+Paulina+%E2%9C%A8;Studiante+Ingenieria+Sistemas+%F0%9F%92%BB;Creating+%E2%80%A2+Learning+%E2%80%A2+Coding+%F0%9F%8C%8A" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+Paulina+%E2%9C%A8;Estudiante+Ingenieria+Sistemas+%F0%9F%92%BB;Creating+%E2%80%A2+Learning+%E2%80%A2+Coding+%F0%9F%8C%8A" 
   alt="Typing SVG"
 />
 <br><br>
