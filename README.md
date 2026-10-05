@@ -1,3 +1,30 @@
+<div align="center">
+
+<h1>🌐 🫧 ˚₊‧ Bienvenid@ a mi espacio digital ‧₊˚ 🫧🌐</h1>
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+Paulina+%E2%9C%A8;Studiante+Ingenieria+Sistemas+%F0%9F%92%BB;Creating+%E2%80%A2+Learning+%E2%80%A2+Coding+%F0%9F%8C%8A" 
+  alt="Typing SVG"
+/>
+<br><br>
+🫧　🌐　💿　☁️　💻　🐬　🌱　🖥️　💧
+
+
+</div>
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-CODING-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/MODE-LEARNING-7DD3FC?style=for-the-badge&logo=bookstack&logoColor=white">
+
+</div>
+
+<br><br>
+
+
+
 # ¡Hola! 👋 Soy Paulina
 
 ## 🚀 Sobre mí
@@ -36,4 +63,14 @@ Apasionada por la tecnología, el desarrollo de software y el aprendizaje contin
 - Trabajando en proyectos académicos
 - Aprendiendo buenas prácticas de desarrollo
 ---
+
+
 ⭐ Gracias por visitar mi perfil.
+
+<code>🌊 code</code>
+&nbsp;•&nbsp;
+<code>☁️ create</code>
+&nbsp;•&nbsp;
+<code>🫧 learn</code>
+&nbsp;•&nbsp;
+<code>🌱 grow</code>
